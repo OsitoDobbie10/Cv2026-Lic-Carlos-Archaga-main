@@ -6,7 +6,7 @@ import PowerBi1 from '@/public/Vista Para CV 4.png';
 import PowerBi2 from '@/public/Vista Para CV 5.png'
 import PowerBi3 from '@/public/Vista Para CV 6.png'
 
-export const socialNetworks = [
+export const socialNetworks = [ 
     {
         id: 1,
         logo: <Linkedin size={30} strokeWidth={1} />,
